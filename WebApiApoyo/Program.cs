@@ -15,7 +15,7 @@ builder.WebHost.ConfigureKestrel(options =>
     options.ListenAnyIP(5228);
 });
 
-// Deshabilitar HTTPS Redirection
+// Deshabilitar HTTPS Redirection (esto se mantuvo como lo tenías)
 builder.Services.AddHttpsRedirection(options =>
 {
     options.HttpsPort = null;
@@ -25,12 +25,13 @@ builder.Services.AddHttpsRedirection(options =>
 builder.Services.InyectarDependencias(builder.Configuration);
 builder.Services.AddControllers();
 
-// Configuración de CORS
+// Configuración de CORS para permitir cualquier origen (en desarrollo)
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAllOrigins", policy =>
     {
-        policy.WithOrigins("https://edumatch-three.vercel.app/")
+        // Permitir todos los orígenes en desarrollo
+        policy.AllowAnyOrigin()  // Para producción, cambia a WithOrigins("https://edumatch-three.vercel.app")
               .AllowAnyMethod()
               .AllowAnyHeader()
               .AllowCredentials();
@@ -64,12 +65,12 @@ app.UseSwaggerUI();
 // Configuración de CORS
 app.UseCors("AllowAllOrigins");
 
-// Remover HTTPS redirection
-//app.UseHttpsRedirection();  // Comentado para evitar redirección HTTPS
-
+// Remover HTTPS redirection (comentado para evitar redirección HTTPS)
 app.UseAuthorization();
 app.MapControllers();
 app.UseStaticFiles();
+
+// Mapear SignalR Hub
 app.MapHub<ChatHub>("/chatHub");
 
 app.Run();
