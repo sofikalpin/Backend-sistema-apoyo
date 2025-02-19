@@ -1,0 +1,10 @@
+wwwroot\fotos\foto_15_638753272166970647.jpg
+wwwroot\fotos\foto_5_638754022455925407.jpg
+wwwroot\uploads\cv_42.pdf
+wwwroot\uploads\cv_56.pdf
+wwwroot\uploads\cv_57.pdf
+wwwroot\uploads\cv_71.pdf
+wwwroot\uploads\cv_72.pdf
+wwwroot\uploads\cv_73.pdf
+wwwroot\uploads\cv_74.pdf
+wwwroot\uploads\cv_juanjose@gmail.com.pdf
