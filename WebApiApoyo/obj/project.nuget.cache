@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3luTS9N3Oas=",
+  "dgSpecHash": "VC+r6O1Yur4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\WebApiApoyo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

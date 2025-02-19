@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sistema Apoyo.IOC\Sistema Apoyo.IOC.csproj" />
+    <ProjectReference Include="..\Sistema Apoyo.IOC\SistemaApoyo.IOC.csproj" />
     <ProjectReference Include="..\SistemaApoyo.BLL\SistemaApoyo.BLL.csproj" />
     <ProjectReference Include="..\SistemaApoyo.DTO\SistemaApoyo.DTO.csproj" />
   </ItemGroup>

@@ -1908,22 +1908,6 @@
           }
         }
       },
-      "Sistema Apoyo.IOC/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.SignalR.Common": "9.0.0",
-          "SistemaApoyo.BLL": "1.0.0",
-          "SistemaApoyo.DAL": "1.0.0",
-          "SistemaApoyo.Utility": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Sistema Apoyo.IOC.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Sistema Apoyo.IOC.dll": {}
-        }
-      },
       "SistemaApoyo.BLL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1976,6 +1960,22 @@
         },
         "runtime": {
           "bin/placeholder/SistemaApoyo.DTO.dll": {}
+        }
+      },
+      "SistemaApoyo.IOC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.SignalR.Common": "9.0.0",
+          "SistemaApoyo.BLL": "1.0.0",
+          "SistemaApoyo.DAL": "1.0.0",
+          "SistemaApoyo.Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SistemaApoyo.IOC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaApoyo.IOC.dll": {}
         }
       },
       "SistemaApoyo.Model/1.0.0": {
@@ -5702,11 +5702,6 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Sistema Apoyo.IOC/1.0.0": {
-      "type": "project",
-      "path": "../Sistema Apoyo.IOC/Sistema Apoyo.IOC.csproj",
-      "msbuildProject": "../Sistema Apoyo.IOC/Sistema Apoyo.IOC.csproj"
-    },
     "SistemaApoyo.BLL/1.0.0": {
       "type": "project",
       "path": "../SistemaApoyo.BLL/SistemaApoyo.BLL.csproj",
@@ -5721,6 +5716,11 @@
       "type": "project",
       "path": "../SistemaApoyo.DTO/SistemaApoyo.DTO.csproj",
       "msbuildProject": "../SistemaApoyo.DTO/SistemaApoyo.DTO.csproj"
+    },
+    "SistemaApoyo.IOC/1.0.0": {
+      "type": "project",
+      "path": "../Sistema Apoyo.IOC/SistemaApoyo.IOC.csproj",
+      "msbuildProject": "../Sistema Apoyo.IOC/SistemaApoyo.IOC.csproj"
     },
     "SistemaApoyo.Model/1.0.0": {
       "type": "project",
@@ -5739,9 +5739,9 @@
       "FluentValidation.AspNetCore >= 11.3.0",
       "Microsoft.AspNetCore.SignalR.Common >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
-      "Sistema Apoyo.IOC >= 1.0.0",
       "SistemaApoyo.BLL >= 1.0.0",
       "SistemaApoyo.DTO >= 1.0.0",
+      "SistemaApoyo.IOC >= 1.0.0",
       "Swashbuckle.AspNetCore >= 7.2.0",
       "System.Diagnostics.Tools >= 4.3.0",
       "System.IdentityModel.Tokens.Jwt >= 8.3.1"
@@ -5754,11 +5754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\WebApiApoyo.csproj",
       "projectName": "WebApiApoyo",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\WebApiApoyo.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\WebApiApoyo\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5780,14 +5780,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\Sistema Apoyo.IOC\\Sistema Apoyo.IOC.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\Sistema Apoyo.IOC\\Sistema Apoyo.IOC.csproj"
+            "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\Sistema Apoyo.IOC\\SistemaApoyo.IOC.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\Sistema Apoyo.IOC\\SistemaApoyo.IOC.csproj"
             },
-            "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj"
+            "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj"
             },
-            "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\SistemaApoyo.DTO\\SistemaApoyo.DTO.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend-sistema-apoyo\\SistemaApoyo.DTO\\SistemaApoyo.DTO.csproj"
+            "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.DTO\\SistemaApoyo.DTO.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.DTO\\SistemaApoyo.DTO.csproj"
             }
           }
         }
