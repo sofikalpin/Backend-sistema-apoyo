@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8lkMvp3XVoc=",
+  "dgSpecHash": "afAt8Qq9fs0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.0\\microsoft.aspnetcore.connections.abstractions.9.0.0.nupkg.sha512",

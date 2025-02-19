@@ -9,9 +9,20 @@ using SistemaApoyo.IOC;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configuración de Kestrel para escuchar en todos los IPs
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(5228);
+});
+
+// Deshabilitar HTTPS Redirection
+builder.Services.AddHttpsRedirection(options =>
+{
+    options.HttpsPort = null;
+});
+
 // Inyección de dependencias
 builder.Services.InyectarDependencias(builder.Configuration);
-
 builder.Services.AddControllers();
 
 // Configuración de CORS
@@ -19,7 +30,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAllOrigins", policy =>
     {
-        policy.WithOrigins("http://localhost:3000") // URL del Frontend
+        policy.WithOrigins("http://localhost:3000")
               .AllowAnyMethod()
               .AllowAnyHeader()
               .AllowCredentials();
@@ -40,33 +51,25 @@ builder.Services.AddValidatorsFromAssemblyContaining<RespuestaValidator>();
 builder.Services.AddValidatorsFromAssemblyContaining<SesionValidator>();
 builder.Services.AddValidatorsFromAssemblyContaining<UsuarioValidator>();
 
-// Agregar Swagger para documentación de API
+// Agregar Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configuración en entorno de desarrollo
-if (app.Environment.IsDevelopment())
-{
-    app.UseDeveloperExceptionPage();
-    app.UseSwagger();
-    app.UseSwaggerUI();
-    app.UseCors("AllowAllOrigins");
-}
-else
-{
-    app.UseHsts();
-}
+// Configurar Swagger para todos los ambientes
+app.UseSwagger();
+app.UseSwaggerUI();
 
-app.UseCors("AllowAllOrigins"); 
+// Configuración de CORS
+app.UseCors("AllowAllOrigins");
 
-app.UseHttpsRedirection();
+// Remover HTTPS redirection
+//app.UseHttpsRedirection();  // Comentado para evitar redirección HTTPS
+
 app.UseAuthorization();
-
 app.MapControllers();
 app.UseStaticFiles();
-
 app.MapHub<ChatHub>("/chatHub");
 
 app.Run();
