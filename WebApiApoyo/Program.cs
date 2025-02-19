@@ -15,7 +15,7 @@ builder.WebHost.ConfigureKestrel(options =>
     options.ListenAnyIP(5228);
 });
 
-// Deshabilitar HTTPS Redirection (esto se mantuvo como lo tenías)
+// Deshabilitar HTTPS Redirection
 builder.Services.AddHttpsRedirection(options =>
 {
     options.HttpsPort = null;
@@ -30,27 +30,48 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAllOrigins", policy =>
     {
-        // Permitir todos los orígenes en desarrollo
-        policy.AllowAnyOrigin()  // Para producción, cambia a WithOrigins("https://edumatch-three.vercel.app")
-              .AllowAnyMethod()
-              .AllowAnyHeader()
-              .AllowCredentials();
+        if (builder.Environment.IsDevelopment())
+        {
+            // Configuración para desarrollo
+            policy.SetIsOriginAllowed(_ => true)
+                  .AllowAnyMethod()
+                  .AllowAnyHeader()
+                  .AllowCredentials();
+        }
+        else
+        {
+            // Configuración para producción
+            policy.WithOrigins("https://edumatch-three.vercel.app")
+                  .AllowAnyMethod()
+                  .AllowAnyHeader()
+                  .AllowCredentials();
+        }
     });
 });
 
 // Configuración de Fluent Validation
 builder.Services.AddFluentValidationAutoValidation();
-builder.Services.AddValidatorsFromAssemblyContaining<ActividadValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<ArticuloValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<ChatValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<ConsultaValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<ExamenValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<ForoValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<LoginValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<MensajeValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<RespuestaValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<SesionValidator>();
-builder.Services.AddValidatorsFromAssemblyContaining<UsuarioValidator>();
+
+// Registro de validadores
+var validatorTypes = new[]
+{
+    typeof(ActividadValidator),
+    typeof(ArticuloValidator),
+    typeof(ChatValidator),
+    typeof(ConsultaValidator),
+    typeof(ExamenValidator),
+    typeof(ForoValidator),
+    typeof(LoginValidator),
+    typeof(MensajeValidator),
+    typeof(RespuestaValidator),
+    typeof(SesionValidator),
+    typeof(UsuarioValidator)
+};
+
+foreach (var validatorType in validatorTypes)
+{
+    builder.Services.AddValidatorsFromAssemblyContaining(validatorType);
+}
 
 // Agregar Swagger
 builder.Services.AddEndpointsApiExplorer();
@@ -65,7 +86,6 @@ app.UseSwaggerUI();
 // Configuración de CORS
 app.UseCors("AllowAllOrigins");
 
-// Remover HTTPS redirection (comentado para evitar redirección HTTPS)
 app.UseAuthorization();
 app.MapControllers();
 app.UseStaticFiles();

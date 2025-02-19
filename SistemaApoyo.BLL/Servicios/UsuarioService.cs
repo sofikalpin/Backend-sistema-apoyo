@@ -410,7 +410,7 @@ namespace SistemaApoyo.BLL.Servicios
 
                 // Codificar el token para evitar problemas con caracteres especiales como '+'
                 var tokenCodificado = Uri.EscapeDataString(token);
-                var resetUrl = $"http://localhost:3000/contra?token={tokenCodificado}";
+                var resetUrl = $"https://edumatch-three.vercel.app//contra?token={tokenCodificado}";
 
                 var mensaje = new MailMessage
                 {

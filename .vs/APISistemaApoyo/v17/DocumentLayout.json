@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\desktop\\desarrollo 2024\\backend - nuevo\\backend-sistema-apoyo\\webapiapoyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\desktop\\desarrollo 2024\\backend - nuevo\\backend-sistema-apoyo\\webapiapoyo\\webapiapoyo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\webapiapoyo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\desktop\\desarrollo 2024\\backend - nuevo\\backend-sistema-apoyo\\webapiapoyo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 119,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiApoyo.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.http",
+              "RelativeDocumentMoniker": "WebApiApoyo\\WebApiApoyo.http",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.http",
+              "RelativeToolTip": "WebApiApoyo\\WebApiApoyo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-19T06:24:56.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiApoyo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiApoyo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T06:24:51.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiApoyo\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\Program.cs",
+              "RelativeToolTip": "WebApiApoyo\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwFUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:14:36.737Z",
+              "EditorCaption": ""
             }
           ]
         }
