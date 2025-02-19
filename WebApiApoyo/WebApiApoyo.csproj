@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sistema Apoyo.IOC\SistemaApoyo.IOC.csproj" />
+	<ProjectReference Include="..\SistemaApoyo.IOC\SistemaApoyo.IOC.csproj" />
     <ProjectReference Include="..\SistemaApoyo.BLL\SistemaApoyo.BLL.csproj" />
     <ProjectReference Include="..\SistemaApoyo.DTO\SistemaApoyo.DTO.csproj" />
   </ItemGroup>

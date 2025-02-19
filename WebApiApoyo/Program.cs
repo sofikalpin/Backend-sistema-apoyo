@@ -4,8 +4,8 @@ using Microsoft.Extensions.Hosting;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using SistemaApoyo.BLL.Validaciones;
-using SistemaApoyo.IOC;
 using SistemaApoyo.BLL.Hubs;
+using SistemaApoyo.IOC;
 
 var builder = WebApplication.CreateBuilder(args);
 

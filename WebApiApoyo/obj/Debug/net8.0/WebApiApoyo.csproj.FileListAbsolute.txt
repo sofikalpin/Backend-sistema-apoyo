@@ -2168,13 +2168,13 @@ C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\B
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\Sistema Apoyo.IOC.dll
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.BLL.dll
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.DAL.dll
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.DTO.dll
+C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.IOC.dll
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.Model.dll
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.Utility.dll
-C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\Sistema Apoyo.IOC.pdb
+C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.IOC.pdb
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.BLL.pdb
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.DTO.pdb
 C:\Users\Usuario\Desktop\Desarrollo 2024\EduMatch - ANDANDO\Terminado\EduMatch\Backend\APISistemaApoyo\WebApiApoyo\bin\Debug\net8.0\SistemaApoyo.DAL.pdb

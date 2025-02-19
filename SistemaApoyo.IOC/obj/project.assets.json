@@ -3089,11 +3089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\Sistema Apoyo.IOC\\SistemaApoyo.IOC.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.IOC\\SistemaApoyo.IOC.csproj",
       "projectName": "SistemaApoyo.IOC",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\Sistema Apoyo.IOC\\SistemaApoyo.IOC.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.IOC\\SistemaApoyo.IOC.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\Sistema Apoyo.IOC\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

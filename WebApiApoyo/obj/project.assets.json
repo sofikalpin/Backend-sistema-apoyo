@@ -5719,8 +5719,8 @@
     },
     "SistemaApoyo.IOC/1.0.0": {
       "type": "project",
-      "path": "../Sistema Apoyo.IOC/SistemaApoyo.IOC.csproj",
-      "msbuildProject": "../Sistema Apoyo.IOC/SistemaApoyo.IOC.csproj"
+      "path": "../SistemaApoyo.IOC/SistemaApoyo.IOC.csproj",
+      "msbuildProject": "../SistemaApoyo.IOC/SistemaApoyo.IOC.csproj"
     },
     "SistemaApoyo.Model/1.0.0": {
       "type": "project",
@@ -5780,14 +5780,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\Sistema Apoyo.IOC\\SistemaApoyo.IOC.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\Sistema Apoyo.IOC\\SistemaApoyo.IOC.csproj"
-            },
             "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj": {
               "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj"
             },
             "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.DTO\\SistemaApoyo.DTO.csproj": {
               "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.DTO\\SistemaApoyo.DTO.csproj"
+            },
+            "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.IOC\\SistemaApoyo.IOC.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\SistemaApoyo.IOC\\SistemaApoyo.IOC.csproj"
             }
           }
         }

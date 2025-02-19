@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore.Design": "9.0.0",
           "SistemaApoyo.BLL": "1.0.0",
           "SistemaApoyo.DTO": "1.0.0",
+          "SistemaApoyo.IOC": "1.0.0",
           "Swashbuckle.AspNetCore": "7.2.0",
           "System.Diagnostics.Tools": "4.3.0",
           "System.IdentityModel.Tokens.Jwt": "8.3.1"
@@ -1112,20 +1113,6 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "Sistema Apoyo.IOC/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.SignalR.Common": "9.0.0",
-          "SistemaApoyo.BLL": "1.0.0",
-          "SistemaApoyo.DAL": "1.0.0",
-          "SistemaApoyo.Utility": "1.0.0"
-        },
-        "runtime": {
-          "Sistema Apoyo.IOC.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "SistemaApoyo.BLL/1.0.0": {
         "dependencies": {
           "BotCrypt": "1.5.0",
@@ -1169,6 +1156,20 @@
         },
         "runtime": {
           "SistemaApoyo.DTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SistemaApoyo.IOC/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.SignalR.Common": "9.0.0",
+          "SistemaApoyo.BLL": "1.0.0",
+          "SistemaApoyo.DAL": "1.0.0",
+          "SistemaApoyo.Utility": "1.0.0"
+        },
+        "runtime": {
+          "SistemaApoyo.IOC.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1930,11 +1931,6 @@
       "path": "system.threading.tasks/4.3.0",
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
-    "Sistema Apoyo.IOC/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "SistemaApoyo.BLL/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -1946,6 +1942,11 @@
       "sha512": ""
     },
     "SistemaApoyo.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaApoyo.IOC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
