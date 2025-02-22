@@ -1,33 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\desktop\\desarrollo 2024\\backend - nuevo\\backend-sistema-apoyo\\webapiapoyo\\webapiapoyo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{AE01D784-12AF-4AC9-83F8-054CE9B1B833}|SistemaApoyo.Model\\SistemaApoyo.Model.csproj|c:\\users\\usuario\\onedrive - utn frlp\\escritorio\\edumatch\\backend\\backend-sistema-apoyo\\sistemaapoyo.model\\sistemaapoyo.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE01D784-12AF-4AC9-83F8-054CE9B1B833}|SistemaApoyo.Model\\SistemaApoyo.Model.csproj|solutionrelative:sistemaapoyo.model\\sistemaapoyo.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|c:\\users\\usuario\\onedrive - utn frlp\\escritorio\\edumatch\\backend\\backend-sistema-apoyo\\sistemaapoyo.bll\\validaciones\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|solutionrelative:sistemaapoyo.bll\\validaciones\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|c:\\users\\usuario\\onedrive - utn frlp\\escritorio\\edumatch\\backend\\backend-sistema-apoyo\\sistemaapoyo.dal\\dbcontext\\railwaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|solutionrelative:sistemaapoyo.dal\\dbcontext\\railwaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|c:\\users\\usuario\\onedrive - utn frlp\\escritorio\\edumatch\\backend\\backend-sistema-apoyo\\sistemaapoyo.dal\\repositorios\\contrato\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|solutionrelative:sistemaapoyo.dal\\repositorios\\contrato\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\onedrive - utn frlp\\escritorio\\edumatch\\backend\\backend-sistema-apoyo\\webapiapoyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\onedrive - utn frlp\\escritorio\\edumatch\\backend\\backend-sistema-apoyo\\webapiapoyo\\webapiapoyo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\webapiapoyo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\desktop\\desarrollo 2024\\backend - nuevo\\backend-sistema-apoyo\\webapiapoyo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\onedrive - utn frlp\\escritorio\\edumatch\\backend\\backend-sistema-apoyo\\webapiapoyo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\desktop\\desarrollo 2024\\backend - nuevo\\backend-sistema-apoyo\\webapiapoyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 119,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -37,12 +49,76 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SistemaApoyo.Model",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\SistemaApoyo.Model\\SistemaApoyo.Model.csproj",
+              "RelativeDocumentMoniker": "SistemaApoyo.Model\\SistemaApoyo.Model.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\SistemaApoyo.Model\\SistemaApoyo.Model.csproj*",
+              "RelativeToolTip": "SistemaApoyo.Model\\SistemaApoyo.Model.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T00:38:14.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\SistemaApoyo.BLL\\Validaciones\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.BLL\\Validaciones\\LoginValidator.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\SistemaApoyo.BLL\\Validaciones\\LoginValidator.cs",
+              "RelativeToolTip": "SistemaApoyo.BLL\\Validaciones\\LoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:37:26.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RailwayContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\SistemaApoyo.DAL\\DBContext\\RailwayContext.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.DAL\\DBContext\\RailwayContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\SistemaApoyo.DAL\\DBContext\\RailwayContext.cs",
+              "RelativeToolTip": "SistemaApoyo.DAL\\DBContext\\RailwayContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:02:24.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\SistemaApoyo.DAL\\Repositorios\\Contrato\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.DAL\\Repositorios\\Contrato\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\SistemaApoyo.DAL\\Repositorios\\Contrato\\GenericRepository.cs",
+              "RelativeToolTip": "SistemaApoyo.DAL\\Repositorios\\Contrato\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:54:28.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WebApiApoyo.http",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.http",
               "RelativeDocumentMoniker": "WebApiApoyo\\WebApiApoyo.http",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.http",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\WebApiApoyo.http",
               "RelativeToolTip": "WebApiApoyo\\WebApiApoyo.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -51,26 +127,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApiApoyo\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebApiApoyo\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-19T06:24:51.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\Program.cs",
               "RelativeDocumentMoniker": "WebApiApoyo\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\Backend - nuevo\\Backend-sistema-apoyo\\WebApiApoyo\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\Program.cs",
               "RelativeToolTip": "WebApiApoyo\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowD4AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewCsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T06:14:36.737Z",
               "EditorCaption": ""

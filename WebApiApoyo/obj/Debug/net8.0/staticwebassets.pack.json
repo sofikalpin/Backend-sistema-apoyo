@@ -1,76 +1,80 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_15_638753272166970647.jpg",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_15_638753272166970647.jpg",
       "PackagePath": "staticwebassets\\fotos\\foto_15_638753272166970647.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_5_638754022455925407.jpg",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_5_638754022455925407.jpg",
       "PackagePath": "staticwebassets\\fotos\\foto_5_638754022455925407.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_60_638754999948438722.jpg",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_60_638754999948438722.jpg",
       "PackagePath": "staticwebassets\\fotos\\foto_60_638754999948438722.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_42.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_42.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_42.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_56.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_56.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_56.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_57.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_57.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_57.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_71.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_71.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_71.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_72.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_72.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_72.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_73.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_73.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_73.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_74.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_74.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_74.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_79.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_79.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_79.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_80.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_80.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_80.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_81.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_81.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_81.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_83.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_83.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_83.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_85.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_85.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_85.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_86.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_86.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_86.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_87.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_87.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_87.pdf"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_juanjose@gmail.com.pdf",
+      "Id": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_juanjose@gmail.com.pdf",
       "PackagePath": "staticwebassets\\uploads\\cv_juanjose@gmail.com.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApiApoyo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApiApoyo.Microsoft.AspNetCore.StaticWebAssets.props",

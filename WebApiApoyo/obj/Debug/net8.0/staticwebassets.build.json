@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KKcNK6njl6Res4GIPqR2eWC9+2GcJKoW651dmhfxDg0=",
+  "Hash": "TOGcs9qju+0VHHoFse2dy0KhJfMkojGgReaj6ZcZ9BY=",
   "Source": "WebApiApoyo",
   "BasePath": "_content/WebApiApoyo",
   "Mode": "Default",
@@ -10,353 +10,1867 @@
     {
       "Name": "WebApiApoyo\\wwwroot",
       "Source": "WebApiApoyo",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_15_638753272166970647.jpg",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_15_638753272166970647.jpg",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "fotos/foto_15_638753272166970647.jpg",
+      "RelativePath": "fotos/foto_15_638753272166970647#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "iq0y28zagi",
+      "Integrity": "xrV5suYPpyHVy9+l9rFv3PtkTKlhhsv0ZiU/l7TYXwo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fotos\\foto_15_638753272166970647.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_5_638754022455925407.jpg",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_5_638754022455925407.jpg",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "fotos/foto_5_638754022455925407.jpg",
+      "RelativePath": "fotos/foto_5_638754022455925407#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "d5lwikb67k",
+      "Integrity": "EYVbws5FnWNqPwI+vMgRg/uuGeKtOJuhXN29OQW/kGs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fotos\\foto_5_638754022455925407.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_60_638754999948438722.jpg",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_60_638754999948438722.jpg",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "fotos/foto_60_638754999948438722.jpg",
+      "RelativePath": "fotos/foto_60_638754999948438722#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "jb6dna8swa",
+      "Integrity": "wT9vLOwwHvm4WMbzTgW9ZTcLowlscGWbfupga2JiZR8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fotos\\foto_60_638754999948438722.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_42.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_42.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_42.pdf",
+      "RelativePath": "uploads/cv_42#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "64xukgskx2",
+      "Integrity": "2mjTpxiAYefM4UPtL77y5UX2LF1N5ymTuax/27ZdD+g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_42.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_56.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_56.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_56.pdf",
+      "RelativePath": "uploads/cv_56#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7h7awn6ajj",
+      "Integrity": "WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_56.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_57.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_57.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_57.pdf",
+      "RelativePath": "uploads/cv_57#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7h7awn6ajj",
+      "Integrity": "WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_57.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_71.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_71.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_71.pdf",
+      "RelativePath": "uploads/cv_71#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "q0gak7h8q6",
+      "Integrity": "mo8GqljQ+6NqyvePLuP5s6+uoTai6XgS3GzgPJhly8o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_71.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_72.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_72.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_72.pdf",
+      "RelativePath": "uploads/cv_72#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7bod5n4o1o",
+      "Integrity": "U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_72.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_73.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_73.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_73.pdf",
+      "RelativePath": "uploads/cv_73#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7bod5n4o1o",
+      "Integrity": "U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_73.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_74.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_74.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_74.pdf",
+      "RelativePath": "uploads/cv_74#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7bod5n4o1o",
+      "Integrity": "U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_74.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_79.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_79.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_79.pdf",
+      "RelativePath": "uploads/cv_79#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "th7n8sejqg",
+      "Integrity": "sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_79.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_80.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_80.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_80.pdf",
+      "RelativePath": "uploads/cv_80#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "th7n8sejqg",
+      "Integrity": "sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_80.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_81.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_81.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_81.pdf",
+      "RelativePath": "uploads/cv_81#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "th7n8sejqg",
+      "Integrity": "sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_81.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_83.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_83.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_83.pdf",
+      "RelativePath": "uploads/cv_83#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "th7n8sejqg",
+      "Integrity": "sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_83.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_85.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_85.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_85.pdf",
+      "RelativePath": "uploads/cv_85#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "th7n8sejqg",
+      "Integrity": "sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_85.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_86.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_86.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_86.pdf",
+      "RelativePath": "uploads/cv_86#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "th7n8sejqg",
+      "Integrity": "sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_86.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_87.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_87.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_87.pdf",
+      "RelativePath": "uploads/cv_87#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "th7n8sejqg",
+      "Integrity": "sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_87.pdf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_juanjose@gmail.com.pdf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_juanjose@gmail.com.pdf",
       "SourceId": "WebApiApoyo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Desarrollo 2024\\EduMatch - ANDANDO\\Terminado\\EduMatch\\Backend\\APISistemaApoyo\\WebApiApoyo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\",
       "BasePath": "_content/WebApiApoyo",
-      "RelativePath": "uploads/cv_juanjose@gmail.com.pdf",
+      "RelativePath": "uploads/cv_juanjose@gmail.com#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "7h7awn6ajj",
+      "Integrity": "WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\cv_juanjose@gmail.com.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "fotos/foto_15_638753272166970647.iq0y28zagi.jpg",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_15_638753272166970647.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xrV5suYPpyHVy9+l9rFv3PtkTKlhhsv0ZiU/l7TYXwo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iq0y28zagi"
+        },
+        {
+          "Name": "label",
+          "Value": "fotos/foto_15_638753272166970647.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xrV5suYPpyHVy9+l9rFv3PtkTKlhhsv0ZiU/l7TYXwo="
+        }
+      ]
+    },
+    {
+      "Route": "fotos/foto_15_638753272166970647.jpg",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_15_638753272166970647.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xrV5suYPpyHVy9+l9rFv3PtkTKlhhsv0ZiU/l7TYXwo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xrV5suYPpyHVy9+l9rFv3PtkTKlhhsv0ZiU/l7TYXwo="
+        }
+      ]
+    },
+    {
+      "Route": "fotos/foto_5_638754022455925407.d5lwikb67k.jpg",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_5_638754022455925407.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYVbws5FnWNqPwI+vMgRg/uuGeKtOJuhXN29OQW/kGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d5lwikb67k"
+        },
+        {
+          "Name": "label",
+          "Value": "fotos/foto_5_638754022455925407.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYVbws5FnWNqPwI+vMgRg/uuGeKtOJuhXN29OQW/kGs="
+        }
+      ]
+    },
+    {
+      "Route": "fotos/foto_5_638754022455925407.jpg",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_5_638754022455925407.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EYVbws5FnWNqPwI+vMgRg/uuGeKtOJuhXN29OQW/kGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EYVbws5FnWNqPwI+vMgRg/uuGeKtOJuhXN29OQW/kGs="
+        }
+      ]
+    },
+    {
+      "Route": "fotos/foto_60_638754999948438722.jb6dna8swa.jpg",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_60_638754999948438722.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wT9vLOwwHvm4WMbzTgW9ZTcLowlscGWbfupga2JiZR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jb6dna8swa"
+        },
+        {
+          "Name": "label",
+          "Value": "fotos/foto_60_638754999948438722.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wT9vLOwwHvm4WMbzTgW9ZTcLowlscGWbfupga2JiZR8="
+        }
+      ]
+    },
+    {
+      "Route": "fotos/foto_60_638754999948438722.jpg",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\fotos\\foto_60_638754999948438722.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wT9vLOwwHvm4WMbzTgW9ZTcLowlscGWbfupga2JiZR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wT9vLOwwHvm4WMbzTgW9ZTcLowlscGWbfupga2JiZR8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_42.64xukgskx2.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_42.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mjTpxiAYefM4UPtL77y5UX2LF1N5ymTuax/27ZdD+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "64xukgskx2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_42.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mjTpxiAYefM4UPtL77y5UX2LF1N5ymTuax/27ZdD+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_42.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_42.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mjTpxiAYefM4UPtL77y5UX2LF1N5ymTuax/27ZdD+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mjTpxiAYefM4UPtL77y5UX2LF1N5ymTuax/27ZdD+g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_56.7h7awn6ajj.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_56.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7h7awn6ajj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_56.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_56.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_56.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_57.7h7awn6ajj.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_57.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7h7awn6ajj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_57.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_57.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_57.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_71.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_71.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4325414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8GqljQ+6NqyvePLuP5s6+uoTai6XgS3GzgPJhly8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8GqljQ+6NqyvePLuP5s6+uoTai6XgS3GzgPJhly8o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_71.q0gak7h8q6.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_71.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4325414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8GqljQ+6NqyvePLuP5s6+uoTai6XgS3GzgPJhly8o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0gak7h8q6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_71.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8GqljQ+6NqyvePLuP5s6+uoTai6XgS3GzgPJhly8o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_72.7bod5n4o1o.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_72.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bod5n4o1o"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_72.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_72.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_72.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_73.7bod5n4o1o.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_73.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bod5n4o1o"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_73.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_73.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_73.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_74.7bod5n4o1o.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_74.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bod5n4o1o"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_74.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_74.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_74.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U93RyRq/JyR+AZcv8VLAaro7p0KkSkjr2QjG5lYOLi4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_79.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_79.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_79.th7n8sejqg.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_79.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "th7n8sejqg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_79.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_80.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_80.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_80.th7n8sejqg.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_80.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "th7n8sejqg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_80.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_81.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_81.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_81.th7n8sejqg.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_81.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "th7n8sejqg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_81.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_83.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_83.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_83.th7n8sejqg.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_83.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "th7n8sejqg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_83.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_85.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_85.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_85.th7n8sejqg.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_85.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "th7n8sejqg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_85.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_86.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_86.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_86.th7n8sejqg.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_86.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "th7n8sejqg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_86.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_87.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_87.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_87.th7n8sejqg.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_87.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "th7n8sejqg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_87.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR0TafMpN/1Ssl/h9eySRpot2E1CuyUeVr+2za6f32k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_juanjose@gmail.com.7h7awn6ajj.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_juanjose@gmail.com.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7h7awn6ajj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cv_juanjose@gmail.com.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cv_juanjose@gmail.com.pdf",
+      "AssetFile": "C:\\Users\\Usuario\\OneDrive - UTN FRLP\\Escritorio\\EduMatch\\Backend\\Backend-sistema-apoyo\\WebApiApoyo\\wwwroot\\uploads\\cv_juanjose@gmail.com.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 16:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwC4AoXGmwA/yd4Z1ym5wFGdaUmQVwqwVt8porm/DRc="
+        }
+      ]
     }
   ]
 }
