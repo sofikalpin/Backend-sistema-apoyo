@@ -116,21 +116,33 @@ namespace SistemaApoyo.BLL.Servicios
 
         public async Task<bool> Eliminar(int id)
         {
+            using var transaction = await _context.Database.BeginTransactionAsync();
+
             try
             {
                 var usuarioEncontrado = await _usuarioRepositorio.Obtener(u => u.Idusuario == id);
                 if (usuarioEncontrado == null)
+                {
+                    _logger.LogWarning("Usuario con ID {Id} no encontrado.", id);
                     throw new InvalidOperationException("El usuario no existe");
+                }
 
                 bool respuesta = await _usuarioRepositorio.Eliminar(usuarioEncontrado);
                 if (!respuesta)
+                {
+                    _logger.LogWarning("No se pudo eliminar el usuario con ID: {Id}", id);
                     throw new Exception("No se pudo eliminar el usuario");
+                }
 
-                return respuesta;
+                await transaction.CommitAsync();
+                _logger.LogInformation("Usuario con ID {Id} eliminado correctamente.", id);
+
+                return true;
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error al eliminar usuario: {ex.Message}");
+                await transaction.RollbackAsync();
+                _logger.LogError(ex, "Error al eliminar usuario con ID: {Id}", id);
                 throw;
             }
         }
@@ -169,7 +181,6 @@ namespace SistemaApoyo.BLL.Servicios
                 throw;
             }
         }
-
         public async Task<UsuarioDTO> ObtenerUsuarioPorCorreo(string correo)
         {
             try
@@ -243,8 +254,6 @@ namespace SistemaApoyo.BLL.Servicios
                 return null;
             }
         }
-
-
         public async Task<bool> GenerarTokenRecuperacion(string correo)
         {
             try

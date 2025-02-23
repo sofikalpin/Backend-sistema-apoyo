@@ -169,7 +169,6 @@ public class UsuarioController : ControllerBase
             });
         }
     }
-
     private string GenerarToken(string correo)
     {
         var tokenHandler = new JwtSecurityTokenHandler();
@@ -216,7 +215,6 @@ public class UsuarioController : ControllerBase
                 return BadRequest(rsp);
             }
 
-           
             if (usuario.Idrol == 1)
             {
                 usuario.AutProf = false;
@@ -311,7 +309,7 @@ public class UsuarioController : ControllerBase
         }
     }
 
-    [HttpPost("reestablecer-contrasena")]
+    [HttpPost("ReestablecerContrasena")]
     public async Task<IActionResult> ReestablecerContraseña([FromBody] ReestablecerContraseñaDTO modelo)
     {
         var rsp = new Response<bool>();
@@ -376,7 +374,6 @@ public class UsuarioController : ControllerBase
 
         try
         {
-            
             var usuario = await _usuarioService.ObtenerUsuarioPorID(idUsuario);
             if (usuario == null || usuario.Idrol != 1)
             {
@@ -432,7 +429,6 @@ public class UsuarioController : ControllerBase
             return StatusCode(500, rsp);
         }
     }
-
 
     [HttpGet("ObtenerCV")]
     public async Task<IActionResult> ObtenerCV(int idUsuario)

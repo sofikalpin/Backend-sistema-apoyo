@@ -208,8 +208,17 @@ namespace WebApiApoyo.Controllers.Administrador
             try
             {
                 var eli = await _administrador.EliminarUsuario(id);
-                rsp.status = true;
-                rsp.value = "Se elimino el alumno con exito.";
+                if (eli)
+                {
+                    rsp.status = true;
+                    rsp.value = "Se elimino el alumno con exito.";
+                }
+                else
+                {
+                    rsp.status = false;
+                    rsp.msg = "No se pudo eliminar el alumno.";
+                }
+                   
             }
             catch (Exception ex)
             {
