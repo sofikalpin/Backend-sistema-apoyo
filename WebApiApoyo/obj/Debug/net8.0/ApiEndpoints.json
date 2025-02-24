@@ -1508,7 +1508,7 @@
   {
     "ContainingType": "UsuarioController",
     "Method": "ReestablecerContrase\u00F1a",
-    "RelativePath": "API/Usuario/reestablecer-contrasena",
+    "RelativePath": "API/Usuario/ReestablecerContrasena",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

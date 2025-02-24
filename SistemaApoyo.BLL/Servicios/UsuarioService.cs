@@ -17,6 +17,8 @@ using System.Net;
 using Microsoft.Extensions.Logging;
 using SistemaApoyo.DAL.DBContext;
 using System.Text.RegularExpressions;
+using SistemaApoyo.BLL.Validaciones;
+using FluentValidation;
 
 namespace SistemaApoyo.BLL.Servicios
 {
@@ -40,6 +42,14 @@ namespace SistemaApoyo.BLL.Servicios
 
         public async Task<UsuarioDTO> Crear(UsuarioDTO modelo)
         {
+            var validator = new RegistroValidator();
+            var resultado = validator.Validate(modelo);
+
+            if (!resultado.IsValid)
+            {
+                throw new ValidationException(resultado.Errors);
+            }
+
             try
             {
 
@@ -203,6 +213,13 @@ namespace SistemaApoyo.BLL.Servicios
 
         public async Task<UsuarioDTO?> ValidarCredencialesAsync(string correo, string contraseña)
         {
+            var loginDto = new LoginDTO { Correo = correo, ContrasenaHash = contraseña };
+            var validator = new LoginValidator();
+            var validationResult = validator.Validate(loginDto);  // Cambiado nombre de variable
+            if (!validationResult.IsValid)
+            {
+                throw new ValidationException(validationResult.Errors);
+            }
             try
             {
                 var usuario = await _context.Usuarios
@@ -227,11 +244,10 @@ namespace SistemaApoyo.BLL.Servicios
                     return null;
                 }
 
-                var resultado = VerificarContrasena(contraseña, usuario.ContraseñaHash);
+                var passwordVerification = VerificarContrasena(contraseña, usuario.ContraseñaHash);  // Cambiado nombre de variable
                 _logger.LogInformation("Hash almacenado para el usuario {Correo}: {ContraseñaHash}", correo, usuario.ContraseñaHash);
 
-
-                if (resultado == false)
+                if (passwordVerification == false)
                 {
                     _logger.LogWarning("Contraseña incorrecta para el usuario: {Correo}", correo);
                     return null;

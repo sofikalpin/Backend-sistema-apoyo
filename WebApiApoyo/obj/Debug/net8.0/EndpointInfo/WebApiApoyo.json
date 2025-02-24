@@ -2250,7 +2250,7 @@
         }
       }
     },
-    "/API/Usuario/reestablecer-contrasena": {
+    "/API/Usuario/ReestablecerContrasena": {
       "post": {
         "tags": [
           "Usuario"
